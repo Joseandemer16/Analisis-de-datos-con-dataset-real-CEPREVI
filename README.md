@@ -1,4 +1,5 @@
 Análisis de Datos - CEPREVI
+
 Este proyecto lo realicé con el propósito de analizar la información de postulaciones del CEPREVI aplicando SQL, Excel y Power BI.
 Mi objetivo principal fue construir indicadores clave (KPIs), procesarlos en Excel y luego representarlos de forma visual e interactiva en Power BI.
 
